@@ -22,3 +22,6 @@ iron:router
 react
 arch:ace-editor
 fortawesome:fontawesome
+universe:react-bootstrap
+accounts-ui
+accounts-password
